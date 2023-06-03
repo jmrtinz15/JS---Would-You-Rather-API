@@ -1,0 +1,70 @@
+body {
+  background-color: #ebebeb;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.Card {
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.question {
+  color: #333;
+  font-size: 40px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.options {
+  background-color: #f8f8f8;
+}
+
+.btnload {
+  color: black;
+  background-color: #ffffff;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+
+.btnload:hover {
+  background-color: #acacac;
+}
+
+.btn {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px 358px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.btn:hover {
+  background-color: #555;
+}
+
+.or {
+  text-align: center;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.result {
+  text-align: center;
+  font-size: 18px;
+}
